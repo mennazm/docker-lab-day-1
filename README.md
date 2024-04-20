@@ -28,14 +28,13 @@ its not running
 ```bash
 docker rm friendly_ellis
 
-
-
 ```
 ![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/80dd649a-1477-4a99-8bab-ce7fdcbc1512.)
 #### 5. Remove the Image
 ```bash
-```
 docker rmi hello-world
+```
+
 
 
 ---
@@ -47,8 +46,9 @@ Run an Ubuntu container in interactive mode, create a file inside it, and manage
 ### Steps
 #### 1. Run Ubuntu Container in Interactive Mode
 ```bash
+docker rmi hello-world
 ```
-docker run -it ubuntu
+
 ![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/6d593303-1275-4567-98e2-68d2a61f6e7c)
 #### 2. Create a File inside the Container
 ```bash
@@ -72,7 +72,7 @@ not found
 ```
 #### 6. Remove All Stopped Containers
 ```bash
-
+ docker container prune
 ```
 ![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/2bd1b3dc-755f-4fd0-b5b2-71343ba6c65c)
 
