@@ -13,12 +13,13 @@ Learn how to run a container using the hello-world image and manage containers a
 ```
 #### 2. Check Container Status and Explain
 ```bash
-![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/d007f836-529f-41fd-8342-b92fbe9adf01)
-![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/0c15e915-3946-40ea-97bc-1efedf575030)
 
 its not running
 
 ```
+![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/d007f836-529f-41fd-8342-b92fbe9adf01)
+![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/0c15e915-3946-40ea-97bc-1efedf575030)
+
 #### 3. Start the Stopped Container
 ```bash
  docker start friendly_ellis
