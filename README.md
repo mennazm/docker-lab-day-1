@@ -27,7 +27,7 @@ its not running
 ```bash
 docker rm friendly_ellis
 
-![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/80dd649a-1477-4a99-8bab-ce7fdcbc1512)
+![image](https://github.com/mennazm/docker-lab-day-1/assets/91394925/80dd649a-1477-4a99-8bab-ce7fdcbc1512.)
 
 ```
 #### 5. Remove the Image
