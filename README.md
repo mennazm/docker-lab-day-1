@@ -1,4 +1,4 @@
-# ITI - Docker Lab 🐋
+# ITI - Docker Lab1🐋
 
 ## Task 1: Working with Docker Hello-world Image
 ### Objective
